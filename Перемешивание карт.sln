@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перемешивание карт", "Перемешивание карт\Перемешивание карт.csproj", "{49D73F47-54A5-4E47-954C-8F38DB571C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D73F47-54A5-4E47-954C-8F38DB571C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D73F47-54A5-4E47-954C-8F38DB571C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D73F47-54A5-4E47-954C-8F38DB571C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D73F47-54A5-4E47-954C-8F38DB571C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CFBE6F0-8720-411D-B42E-DB0FB78C1912}
+	EndGlobalSection
+EndGlobal
