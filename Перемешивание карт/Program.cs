@@ -25,27 +25,27 @@ namespace Перемешивание_карт
         }
         static IEnumerable<string> Suits()
         {
-            yield return "clubs";
-            yield return "diamonds";
-            yield return "hearts";
-            yield return "spades";
+            yield return "бубн";
+            yield return "трефы";
+            yield return "червы";
+            yield return "пики";
         }
 
         static IEnumerable<string> Ranks()
         {
-            yield return "two";
-            yield return "three";
-            yield return "four";
-            yield return "five";
-            yield return "six";
-            yield return "seven";
-            yield return "eight";
-            yield return "nine";
-            yield return "ten";
-            yield return "jack";
-            yield return "queen";
-            yield return "king";
-            yield return "ace";
+            yield return "два";
+            yield return "три";
+            yield return "четыре";
+            yield return "пять";
+            yield return "шесть";
+            yield return "семь";
+            yield return "восемь";
+            yield return "девять";
+            yield return "десять";
+            yield return "валет";
+            yield return "дама";
+            yield return "король";
+            yield return "туз";
         }
     }
 }
